@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Test_Project2/target/myapp-0.0.1-SNAPSHOT.jar&apos; to &apos;myapp.jar&apos;" description="Rename resource &apos;myapp-0.0.1-SNAPSHOT.jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="target/myapp-0.0.1-SNAPSHOT.jar" name="myapp.jar" stamp="1785291501725" updateReferences="true"/>
+</session>

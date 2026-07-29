@@ -1,0 +1,11 @@
+spring.application.name=Test_Project1
+
+# context path, 서버의 포트번호 지정
+server.servlet.context-path=/myapp
+server.port=8006
+
+# View Resolver
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp
+
+# 빌드 시 내장 서버를 죽이는 설정
