@@ -212,5 +212,5 @@
 <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_0.xsd" uri="jar:file:/C:/sts-5.1.1.RELEASE/plugins/org.eclipse.jst.standard.schemas_1.2.800.v202604300318.jar!/dtdsAndSchemas/web-partialresponse_2_0.xsd"/>
 <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_2.xsd" uri="jar:file:/C:/sts-5.1.1.RELEASE/plugins/org.eclipse.jst.standard.schemas_1.2.800.v202604300318.jar!/dtdsAndSchemas/web-partialresponse_2_2.xsd"/>
 <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_3.xsd" uri="jar:file:/C:/sts-5.1.1.RELEASE/plugins/org.eclipse.jst.standard.schemas_1.2.800.v202604300318.jar!/dtdsAndSchemas/web-partialresponse_2_3.xsd"/>
-<public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/C:/sts-5.1.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_5.2.0.202606051947.jar!/dtd/log4j-1.2.dtd"/>
+<public publicId="-//LOG4J//DTD LOG4J//EN" uri="jar:file:/C:/sts-5.1.1.RELEASE/plugins/org.springsource.ide.eclipse.commons.ui_5.3.0.202607290145.jar!/dtd/log4j-1.2.dtd"/>
 </catalog>
